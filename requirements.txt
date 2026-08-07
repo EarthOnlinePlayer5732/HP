@@ -1,0 +1,42 @@
+# Runtime and provider clients
+openai
+anthropic==0.104.1
+httpx
+python-dotenv
+portalocker
+ujson
+
+# Scientific and rendering foundations
+numpy
+scipy
+matplotlib
+
+# Active DELEGATE-52 domain evaluators
+adif_io
+ase
+biopython
+biotite
+CairoSVG
+conllu
+dnspython
+fonttools
+gpxpy
+icalendar
+metar
+openqasm3[parser]
+plyara
+polib
+pydifact
+pydot
+pymarc
+pymatgen
+PyCifRW
+python-chess
+python-gedcom
+python-hcl2
+python-ly
+PyYAML
+qiskit
+rdkit
+spicelib
+srt
