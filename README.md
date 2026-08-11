@@ -1,6 +1,6 @@
 # HybridPatch
 
-HybridPatch is a structured editing protocol for applying compact, verifiable changes to multi-file contexts. This repository contains the current unversioned protocol, prompt builder, deterministic executor, validation gate, campaign runtime, provider adapter, and active DELEGATE-52 domain evaluators used by the paper implementation.
+This repo contains the code for our paper "When Edits Become History:Constrained Delegation for Long-Horizon Document Maintenance".
 
 ## Layout
 
